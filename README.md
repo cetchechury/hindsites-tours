@@ -1,24 +1,27 @@
-# README
+<p align="center">
+  <a href="https://dailyconstitutional.com">
+    <img alt="Hindsites" src="https://github.com/cetchechury/hindsites/blob/master/hindsites-logo-large.png" width="500">
+  </a>
+</p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h3 align="center">
+  Hind Sites Tours
+</h3>
 
-Things you may want to cover:
 
-* Ruby version
+## Project Summary
+Hind Sites Tours is a web app providing an audio walking tour of Lexington Battle Green.
 
-* System dependencies
+## Technology Showcased
+* React
+* Rails
+* PostgreSQL
 
-* Configuration
+## Project Constraints
+* Capstone project for Launch Academy {<25>}
+* 10 day window (Mon-Fri; 9 am - 5 pm)
+* Worked autonomously
+* Grade? [You tell me](mailto:hello@reacttraining.com).
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## About the author
+BIO here
