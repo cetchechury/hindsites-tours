@@ -8,6 +8,7 @@
   Hind Sites Tours
 </h3>
 
+[![Codeship Status for cetchechury/hindsites-tours](https://app.codeship.com/projects/9c1498c0-9edd-0137-b9a3-0aef1a10017d/status?branch=master)](https://app.codeship.com/projects/359227)
 
 ## Project Summary
 Hind Sites Tours is a web app providing an audio walking tour of Lexington Battle Green.
