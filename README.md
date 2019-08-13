@@ -12,12 +12,22 @@
 
 
 ## Project Summary
-Hind Sites is a review app for historic sites and cultural heritage venues in the Boston, Massachusetts metro area. Serving as a capstone project for Launch Academy {<25>}, the intent of this project project was to demonstrate a working knowledge of React and Rails.
+Hind Sites Tours provides an audio tour of selected sites and a variety of tour options in the Boston Metro Area. Serving as a side project while attending [Launch Academy {<25>}](https://launchacademy.com), the intent of this project project was to demonstrate a working knowledge of React and Rails and the intuitiveness to find new code or resources to expand functionality of the origin Hind Sites review site.
+
+## Design Philosophy & Principles
+* Agile methodology
+* CRUD principles
+* Object Oriented Programming
+* Test Driven Development
 
 ## Technology Showcased
-* React
-* Rails
+* AWS file storage via CarrierWave gem
+* CSS 3
+* HTML 5
 * PostgreSQL
+* Rails
+* React
+* Ruby 5
 
 ## Project Constraints
 * Side-project for Launch Academy {<25>}
